@@ -1,7 +1,7 @@
-# firstrepo
+
 ## Heading one
 ### Heading two
 
-*point one
-*point two
-*point three
+* point one
+* point two
+* point three
